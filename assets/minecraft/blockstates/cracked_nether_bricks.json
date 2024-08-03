@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "":[
+         {"model": "sg:block/gilded_chiseled_shale_0"},
+         {"model": "sg:block/gilded_chiseled_shale_1"},
+         {"model": "sg:block/gilded_chiseled_shale_2"},
+         {"model": "sg:block/gilded_chiseled_shale_3"}
+        ]
+  }
+}
