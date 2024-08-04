@@ -1,0 +1,21 @@
+{
+    "block.minecraft.purpur_block": "Sandstone Bricks",
+    "block.minecraft.purpur_pillar": "Sandstone Pillar",
+    "block.minecraft.purpur_stairs": "Sandstone Brick Stairs",
+    "block.minecraft.purpur_slab": "Sandstone Brick Slab",
+    "block.minecraft.prismarine": "Shale Bricks",
+    "block.minecraft.prismarine_stairs": "Shale Brick Stairs",
+    "block.minecraft.prismarine_slab": "Shale Brick Slab",
+    "block.minecraft.prismarine_wall": "Shale Brick Wall",
+    "block.minecraft.red_nether_bricks": "Shale Bricks Alt",
+    "block.minecraft.deepslate_copper_ore": "Smooth Obsidian",
+    "block.minecraft.raw_copper_block": "Polished Obsidian",
+    "block.minecraft.prismarine_bricks": "Polished Shale",
+    "block.minecraft.prismarine_brick_stairs": "Polished Shale Stairs",
+    "block.minecraft.prismarine_brick_slab": "Polished Shale Slab",
+    "block.minecraft.deepslate_iron_ore": "Chiseled Polished Shale",
+    "block.minecraft.raw_iron_block": "Gilded Chiseled Polished Shale",
+    "block.minecraft.nether_bricks": "Chiseled Shale",
+    "block.minecraft.cracked_nether_bricks": "Gilded Chiseled Shale",
+    "block.minecraft.chiseled_nether_bricks": "Gilded Chiseled Shale Bricks"
+}
