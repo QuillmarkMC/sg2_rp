@@ -8,6 +8,7 @@
     "block.minecraft.prismarine_slab": "Shale Brick Slab",
     "block.minecraft.prismarine_wall": "Shale Brick Wall",
     "block.minecraft.red_nether_bricks": "Shale Bricks Alt",
+    "block.minecraft.red_nether_brick_slab": "Shale Brick Slab Alt",
     "block.minecraft.deepslate_copper_ore": "Smooth Obsidian",
     "block.minecraft.raw_copper_block": "Polished Obsidian",
     "block.minecraft.prismarine_bricks": "Polished Shale",
@@ -23,5 +24,8 @@
     "block.minecraft.snow_block": "Sand...?",
     "block.minecraft.dark_prismarine": "Smooth Shale",
     "block.minecraft.dark_prismarine_stairs": "Smooth Shale Stairs",
-    "block.minecraft.dark_prismarine_slab": "Smooth Shale Slab"
+    "block.minecraft.dark_prismarine_slab": "Smooth Shale Slab",
+    "block.minecraft.lapis_ore": "Ungilded Chiseled Shale",
+    "block.minecraft.deepslate_lapis_ore": "Chiseled Sandstone Bricks",
+    "block.minecraft.deepslate_coal_ore": "Polished Chiseled Sandstone Bricks"
 }

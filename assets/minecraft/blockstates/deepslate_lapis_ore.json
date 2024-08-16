@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "":[
+         {"model": "sg:block/ungilded_chiseled_sandstone_1"},
+         {"model": "sg:block/ungilded_chiseled_sandstone_2"},
+         {"model": "sg:block/ungilded_chiseled_sandstone_3"},
+         {"model": "sg:block/ungilded_chiseled_sandstone_4"},
+         {"model": "sg:block/ungilded_chiseled_sandstone_5"},
+         {"model": "sg:block/ungilded_chiseled_sandstone_6"},
+         {"model": "sg:block/ungilded_chiseled_sandstone_7"},
+         {"model": "sg:block/ungilded_chiseled_sandstone_8"}
+        ]
+  }
+}

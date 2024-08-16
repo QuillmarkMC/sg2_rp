@@ -2,6 +2,6 @@
   "parent": "minecraft:block/cube_column",
   "textures": {
     "end": "sg:block/gilded_chiseled_shale_top",
-    "side": "sg:block/gilded_chiseled_shale_2"
+    "side": "sg:block/gilded_chiseled_shale_7"
   }
 }

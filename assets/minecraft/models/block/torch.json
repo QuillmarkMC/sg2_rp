@@ -67,6 +67,7 @@
 			"name": "flame",
 			"from": [9.5, 13, 9.5],
 			"to": [6.5, 8, 6.5],
+			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 8, 6.5]},
 			"faces": {
 				"north": {"uv": [3.2, 0, 12.7, 16], "rotation": 180, "texture": "#1"},

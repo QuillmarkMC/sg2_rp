@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "sg:block/chiseled_shale_top",
+    "side": "sg:block/ungilded_chiseled_shale_6"
+  }
+}
