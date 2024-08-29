@@ -1,14 +1,15 @@
 {
   "variants": {
     "":[
-         {"model": "sg:block/ungilded_chiseled_shale_1"},
-         {"model": "sg:block/ungilded_chiseled_shale_2"},
-         {"model": "sg:block/ungilded_chiseled_shale_3"},
-         {"model": "sg:block/ungilded_chiseled_shale_4"},
-         {"model": "sg:block/ungilded_chiseled_shale_5"},
-         {"model": "sg:block/ungilded_chiseled_shale_6"},
-         {"model": "sg:block/ungilded_chiseled_shale_7"},
-         {"model": "sg:block/ungilded_chiseled_shale_8"}
+         {"model": "sg:block/ungilded_chiseled_shale_1","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_2","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_3","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_4","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_5","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_6","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_7","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_8","weight":10},
+         {"model": "sg:block/ungilded_chiseled_shale_sus","weight":1}
         ]
   }
 }

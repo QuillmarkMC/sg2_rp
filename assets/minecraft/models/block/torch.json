@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "sg:block/torch/main",
 		"1": "sg:block/torch/flame",
-		"particle": "sg:block/torch/main"
+		"particle": "sg:block/empty"
 	},
 	"elements": [
 		{

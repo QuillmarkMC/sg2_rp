@@ -5,7 +5,7 @@
 		"2": "sg:block/torch/redstone_anim_1",
 		"3": "sg:block/torch/redstone_anim_2",
 		"4": "sg:block/torch/redstone_top",
-		"particle": "sg:block/torch/main"
+		"particle": "sg:block/empty"
 	},
 	"elements": [
 		{

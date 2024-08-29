@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "sg:block/shale_bricks", "y": 0, "weight": 60},
+      {"model": "sg:block/shale_bricks_decay_1", "y": 0, "weight": 10},
+      {"model": "sg:block/shale_bricks_decay_1", "y": 90, "weight": 10},
+      {"model": "sg:block/shale_bricks_decay_1", "y": 180, "weight": 10},
+      {"model": "sg:block/shale_bricks_decay_1", "y": 270, "weight": 10},
+      {"model": "sg:block/shale_bricks_decay_2", "y": 0, "weight": 10},
+      {"model": "sg:block/shale_bricks_decay_2", "y": 90, "weight": 10},
+      {"model": "sg:block/shale_bricks_decay_2", "y": 180, "weight": 10},
+      {"model": "sg:block/shale_bricks_decay_2", "y": 270, "weight": 10}
+    ]
+  }
+}

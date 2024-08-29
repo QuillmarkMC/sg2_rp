@@ -27,5 +27,14 @@
     "block.minecraft.dark_prismarine_slab": "Smooth Shale Slab",
     "block.minecraft.lapis_ore": "Ungilded Chiseled Shale",
     "block.minecraft.deepslate_lapis_ore": "Chiseled Sandstone Bricks",
-    "block.minecraft.deepslate_coal_ore": "Polished Chiseled Sandstone Bricks"
+    "block.minecraft.deepslate_coal_ore": "Polished Chiseled Sandstone Bricks",
+    "block.minecraft.small_amethyst_bud": "Cactus Fruit (1)",
+    "block.minecraft.medium_amethyst_bud": "Cactus Fruit (2)",
+    "block.minecraft.large_amethyst_bud": "Cactus Fruit (3)",
+    "block.minecraft.amethyst_cluster": "Cactus Fruit (4)",
+    "block.minecraft.crimson_roots": "Sandstone Brick",
+    "block.minecraft.warped_roots": "Shale Brick",
+    "block.minecraft.nether_quartz_ore": "Decayed Sandstone Bricks",
+    "block.minecraft.nether_gold_ore": "Decayed Shale Bricks",
+    "block.minecraft.weeping_vines": "Rope"
 }
