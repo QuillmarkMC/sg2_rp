@@ -1,7 +1,6 @@
 {
   "variants": {
     "": [
-      {"model": "sg:block/sandstone_bricks", "y": 0, "weight": 60},
       {"model": "sg:block/sandstone_bricks_decay_1", "y": 0, "weight": 10},
       {"model": "sg:block/sandstone_bricks_decay_1", "y": 90, "weight": 10},
       {"model": "sg:block/sandstone_bricks_decay_1", "y": 180, "weight": 10},
