@@ -34,7 +34,7 @@
     "block.minecraft.amethyst_cluster": "Cactus Fruit (4)",
     "block.minecraft.crimson_roots": "Sandstone Brick",
     "block.minecraft.warped_roots": "Shale Brick",
-    "block.minecraft.nether_quartz_ore": "Decayed Sandstone Bricks",
-    "block.minecraft.nether_gold_ore": "Decayed Shale Bricks",
+    "block.minecraft.granite_slab": "Decayed Sandstone Bricks",
+    "block.minecraft.polished_granite_slab": "Decayed Shale Bricks",
     "block.minecraft.weeping_vines": "Rope"
 }
