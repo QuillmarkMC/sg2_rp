@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "sg:block/path/east"
+    },
+    "facing=north": {
+      "model": "sg:block/path/north"
+    },
+    "facing=south": {
+      "model": "sg:block/path/south"
+    },
+    "facing=west": {
+      "model": "sg:block/path/west"
+    }
+  }
+}
