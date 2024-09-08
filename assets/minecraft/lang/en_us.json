@@ -36,5 +36,6 @@
     "block.minecraft.warped_roots": "Shale Brick",
     "block.minecraft.granite_slab": "Decayed Sandstone Bricks",
     "block.minecraft.polished_granite_slab": "Decayed Shale Bricks",
-    "block.minecraft.weeping_vines": "Rope"
+    "block.minecraft.weeping_vines": "Rope",
+    "block.minecraft.shroomlight": "White Block"
 }
