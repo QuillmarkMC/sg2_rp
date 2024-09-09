@@ -22,6 +22,7 @@
     {"predicate": {"custom_model_data": 16},"model": "sg:item/countdown_timer/16"},
     {"predicate": {"custom_model_data": 17},"model": "sg:item/countdown_timer/17"},
     {"predicate": {"custom_model_data": 18},"model": "sg:item/countdown_timer/18"},
-    {"predicate": {"custom_model_data": 19},"model": "sg:item/countdown_timer/19"}
+    {"predicate": {"custom_model_data": 19},"model": "sg:item/countdown_timer/19"},
+    {"predicate": {"custom_model_data": 100000},"model": "sg:item/countdown_timer/0"}
   ]
 }
