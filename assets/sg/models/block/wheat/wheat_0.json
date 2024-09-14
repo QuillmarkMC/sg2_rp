@@ -1,0 +1,6 @@
+{
+  "parent": "sg:block/wheat/crop_parent",
+  "textures": {
+    "crop": "sg:block/empty"
+  }
+}
