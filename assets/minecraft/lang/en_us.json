@@ -1,4 +1,6 @@
 {
+    "container.enderchest": "\uE018\uE018\uE018\uE018\uE017",
+    "container.inventory":"",
     "block.minecraft.purpur_block": "Sandstone Bricks",
     "block.minecraft.purpur_pillar": "Sandstone Pillar",
     "block.minecraft.purpur_stairs": "Sandstone Brick Stairs",
