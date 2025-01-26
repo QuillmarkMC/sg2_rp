@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "sg:item/menu/arrow_right"
+      "layer0": "sg:item/menu/gui/arrow_back"
     }
 }

@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "sg:item/menu/plus"
+      "model": "sg:item/menu/gui/arrow_left"
     }
   }
