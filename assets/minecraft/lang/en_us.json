@@ -1,6 +1,4 @@
 {
-    "container.enderchest": "enber cbest",
-    "container.inventory":"",
     "block.minecraft.purpur_block": "Sandstone Bricks",
     "block.minecraft.purpur_pillar": "Sandstone Pillar",
     "block.minecraft.purpur_stairs": "Sandstone Brick Stairs",
@@ -52,5 +50,6 @@
     "block.minecraft.closed_eyeblossom": "Fancy Fern",
     "block.minecraft.magenta_glazed_terracotta": "Sandstone Path (Rotatable)",
     "block.minecraft.sea_pickle": "Mini Cactus",
-    "block.minecraft.pink_petals": "Beetle(s)"
+    "block.minecraft.pink_petals": "Beetle(s)",
+    "block.minecraft.brown_glazed_terracotta": "Greeble Block (N)"
 }

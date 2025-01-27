@@ -1,0 +1,41 @@
+{
+  "variants": {
+    "facing=north": [
+      {"model": "sg:block/greeble/greeble_block","y": 0,"x": 0},
+      {"model": "sg:block/greeble/greeble_block","y": 0,"x": 180},
+      {"model": "sg:block/greeble/greeble_block","y": 90,"x": 0},
+      {"model": "sg:block/greeble/greeble_block","y": 90,"x": 180},
+      {"model": "sg:block/greeble/greeble_block","y": 180,"x": 0},
+      {"model": "sg:block/greeble/greeble_block","y": 180,"x": 180},
+      {"model": "sg:block/greeble/greeble_block","y": 270,"x": 0},
+      {"model": "sg:block/greeble/greeble_block","y": 270,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_2","y": 0,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_2","y": 0,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_2","y": 90,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_2","y": 90,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_2","y": 180,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_2","y": 180,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_2","y": 270,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_2","y": 270,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_3","y": 0,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_3","y": 0,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_3","y": 90,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_3","y": 90,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_3","y": 180,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_3","y": 180,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_3","y": 270,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_3","y": 270,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_4","y": 0,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_4","y": 0,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_4","y": 90,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_4","y": 90,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_4","y": 180,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_4","y": 180,"x": 180},
+      {"model": "sg:block/greeble/greeble_block_4","y": 270,"x": 0},
+      {"model": "sg:block/greeble/greeble_block_4","y": 270,"x": 180}
+    ],
+    "facing=east": {"model": "sg:broken"},
+    "facing=south": {"model": "sg:broken"},
+    "facing=west": {"model": "sg:broken"}
+  }
+}
