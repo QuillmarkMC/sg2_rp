@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "sg:block/greeble/greeble_block_2"
+		"all": "lobby:block/greeble/greeble_block_b_1"
 	},
 	"elements": [
 		{
