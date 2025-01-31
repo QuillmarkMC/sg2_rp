@@ -1,0 +1,6 @@
+{
+    "model": {
+      "type": "minecraft:model",
+      "model": "sgdev:item/modify_chest_rarity"
+    }
+  }
