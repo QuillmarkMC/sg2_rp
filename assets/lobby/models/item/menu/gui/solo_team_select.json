@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "lobby:item/menu/gui/solo",
-		"particle": "lobby:item/menu/gui/solo"
+		"0": "lobby:item/menu/gui/solo_team_select",
+		"particle": "lobby:item/menu/gui/solo_team_select"
 	},
 	"elements": [
 		{

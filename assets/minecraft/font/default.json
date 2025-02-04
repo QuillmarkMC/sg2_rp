@@ -16,6 +16,7 @@
         {"type": "bitmap","file": "sg:font/teams/gray.png","ascent": 7,"height": 8,"chars": ["\uE014"]},
         {"type": "bitmap","file": "sg:font/teams/dark_gray.png","ascent": 7,"height": 8,"chars": ["\uE015"]},
         {"type": "bitmap","file": "sg:font/teams/black.png","ascent": 7,"height": 8,"chars": ["\uE016"]},
-        {"type": "bitmap","file": "sg:font/blank_pixel.png","ascent": -32768,"height": -4,"chars": ["\uE017"]}
+        {"type": "bitmap","file": "sg:font/blank_pixel.png","ascent": -32768,"height": -4, "chars": ["\uE017"]},
+        {"type": "bitmap","file": "sg:font/blank_pixel.png","ascent": -32768,"height": -71, "chars": ["\uE018"]}
     ]
 }
