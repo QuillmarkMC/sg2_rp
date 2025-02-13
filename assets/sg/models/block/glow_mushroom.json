@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cross_emissive",
+    "textures": {
+      "cross": "sg:block/empty",
+      "cross_emissive": "sg:block/glow_mushroom"
+    }
+  }
