@@ -60,5 +60,6 @@
     "block.minecraft.open_eyeblossom":"Glow Mushroom",
     "block.minecraft.bamboo_button": "Dog Statue",
     "block.minecraft.copper_ore": "Shale",
-    "block.minecraft.oxidized_chiseled_copper": "Glow Mushroom Block"
+    "block.minecraft.oxidized_chiseled_copper": "Glow Mushroom Block",
+    "block.minecraft.spore_blossom": "Upside-down Glow Mushroom"
 }
