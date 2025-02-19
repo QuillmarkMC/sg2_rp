@@ -16,7 +16,7 @@
         {"type": "bitmap","file": "lobby:font/team_prefixes/gray.png","ascent": 7,"height": 8,"chars": ["\uE014"]},
         {"type": "bitmap","file": "lobby:font/team_prefixes/dark_gray.png","ascent": 7,"height": 8,"chars": ["\uE015"]},
         {"type": "bitmap","file": "lobby:font/team_prefixes/black.png","ascent": 7,"height": 8,"chars": ["\uE016"]},
-        {"type": "bitmap","file": "lobbyh:font/blank_pixel.png","ascent": -32768,"height": -4, "chars": ["\uE017"]},
-        {"type": "bitmap","file": "lobbyh:font/blank_pixel.png","ascent": -32768,"height": -71, "chars": ["\uE018"]}
+        {"type": "bitmap","file": "lobby:font/blank_pixel.png","ascent": -32768,"height": -4, "chars": ["\uE017"]},
+        {"type": "bitmap","file": "lobby:font/blank_pixel.png","ascent": -32768,"height": -71, "chars": ["\uE018"]}
     ]
 }
