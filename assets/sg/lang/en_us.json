@@ -4,7 +4,8 @@
 	"text.game.bossbar.shrink":"Border size: ",
 	"text.game.deathmatch.begin":"The border has stopped shrinking! The game will end in a tie in %s seconds.",
 	"text.game.border.shrink":"The border has begun to shrink!",
-	"text.game.chest.restock.finish":"All chests have been restocked!",
+	"text.game.chest.restock.finish.all":"All chests have been restocked!",
+	"text.game.chest.restock.finish.cornucopia":"Cornucopia chests have been restocked!",
 	"text.game.combat.punish":"%s tried to combat log and was punished for it!",
 	"text.game.title.death":"You Died",
 	"text.game.title.lose":"Game Over",
@@ -55,5 +56,8 @@
 	"text.lobby.teams.item.create.dark_purple": "DARK PURPLE",
 	"text.lobby.teams.item.create.gray": "GRAY",
 	"text.lobby.teams.item.create.black": "BLACK",
-	"text.lobby.teams.item.create.lore": "Choose your new team's color!"
+	"text.lobby.teams.item.create.lore": "Choose your new team's color!",
+	
+	"text.admin.chest.restock.begin":"Chest restock starting now...",
+	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress."
 }
