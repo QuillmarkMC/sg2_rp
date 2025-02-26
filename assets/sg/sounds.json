@@ -1,0 +1,25 @@
+{
+	"music.lobby": {
+		"sounds": [
+			"sg:music/lobby"
+		],
+		"stream": true
+	},
+	"music.grace": {
+		"sounds": [
+			"sg:music/grace"
+		],
+		"stream": true
+	},
+	"music.deathmatch": {
+		"sounds": [
+			"sg:music/deathmatch"
+		],
+		"stream": true
+	},
+	"music.stinger": {
+		"sounds": [
+			"sg:music/stinger"
+		]
+	}
+}
