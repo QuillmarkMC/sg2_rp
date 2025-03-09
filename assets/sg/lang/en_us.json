@@ -33,6 +33,7 @@
 	"text.lobby.teams.ready": "You are now ready!",
 	"text.lobby.teams.spectator": "You will be a spectator!",
 	"text.lobby.teams.full": "That team is full! Please choose a different team to join.",
+	"text.lobby.teams.already_on_team": "You are already on that team!",
 	"text.lobby.teams.item.team.name": "%s's Team",
 	"text.lobby.teams.item.team.lore": "Click here to join the team",
 	"text.lobby.teams.item.team.lore.current_players": "Current players: ",
@@ -58,6 +59,7 @@
 	"text.lobby.teams.item.create.gray": "GRAY",
 	"text.lobby.teams.item.create.black": "BLACK",
 	"text.lobby.teams.item.create.lore": "Choose your new team's color!",
+	"text.lobby.teams.disband.leader_leave": "Your team was disbanded because the leader has left.",
 	
 	"text.admin.chest.restock.begin":"Chest restock starting now...",
 	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress."
