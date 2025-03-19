@@ -1,5 +1,4 @@
 {
-    "container.enderchest": "\uE018Team Select",
 	"soundCategory.music": "§cVanilla Music (§4disable§c)§r",
 	"soundCategory.record": "§aCustom Music§r",
 	"soundCategory.ambient": "§aSound Effects§r",
@@ -67,5 +66,6 @@
     "block.minecraft.spore_blossom": "Upside-down Glow Mushroom",
     "block.minecraft.allium": "Glow Worm",
     "block.minecraft.nether_brick_fence": "Shale Brick Fence",
-    "block.minecraft.pink_stained_glass": "Table"
+    "block.minecraft.pink_stained_glass": "Table",
+    "block.minecraft.weathered_chiseled_copper": "Cyan Glow Mushroom Block"
 }

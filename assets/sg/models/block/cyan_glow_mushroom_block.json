@@ -1,15 +1,15 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"textures": {
-		"0": "sg:block/glow_mushroom_block",
-		"particle": "sg:block/glow_mushroom_block"
+		"0": "sg:block/cyan_glow_mushroom_block",
+		"particle": "sg:block/cyan_glow_mushroom_block"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"light_emission": 15,
-			"shade": false,
+			"shade": false, 
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
