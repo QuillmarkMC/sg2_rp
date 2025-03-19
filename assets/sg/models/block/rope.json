@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"parent": "sg:block/cross_shaded",
 	"textures": {
 		"cross": "sg:block/rope_square",
