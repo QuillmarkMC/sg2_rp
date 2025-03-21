@@ -67,5 +67,8 @@
     "block.minecraft.allium": "Glow Worm",
     "block.minecraft.nether_brick_fence": "Shale Brick Fence",
     "block.minecraft.pink_stained_glass": "Tabble",
-    "block.minecraft.weathered_chiseled_copper": "Cyan Glow Mushroom Block"
+    "block.minecraft.weathered_chiseled_copper": "Cyan Glow Mushroom Block",
+    "item.minecraft.pumpkin_seeds": "Plates",
+    "block.minecraft.pink_stained_glass_pane": "Waffle",
+    "block.minecraft.magenta_stained_glass_pane": "Waffle Stack"
 }

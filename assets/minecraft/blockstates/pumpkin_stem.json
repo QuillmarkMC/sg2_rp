@@ -1,0 +1,28 @@
+{
+    "variants": {
+      "age=0": {
+        "model": "sg:block/plate_1"
+      },
+      "age=1": {
+        "model": "sg:block/plate_2"
+      },
+      "age=2": {
+        "model": "sg:block/plate_3"
+      },
+      "age=3": {
+        "model": "sg:block/plate_4"
+      },
+      "age=4": {
+        "model": "sg:block/plate_5"
+      },
+      "age=5": {
+        "model": "sg:block/plate_6"
+      },
+      "age=6": {
+        "model": "sg:block/plate_7"
+      },
+      "age=7": {
+        "model": "sg:block/plate_8"
+      }
+    }
+  }
