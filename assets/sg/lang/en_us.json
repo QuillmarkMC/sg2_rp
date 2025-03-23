@@ -71,6 +71,9 @@
 	
 	"text.lobby.arena.sword.name": "Training Sword",
 	"text.lobby.death_message": "%s fainted",
+	"text.lobby.parkour.start": "Timer started!",
+	"text.lobby.parkour.checkpoint": "Checkpoint reached!",
+	"text.lobby.parkour.complete": "%s has completed the parkour in %s!",
 	
 	"text.admin.chest.restock.begin":"Chest restock starting now...",
 	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress."
