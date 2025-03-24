@@ -70,5 +70,8 @@
     "block.minecraft.weathered_chiseled_copper": "Cyan Glow Mushroom Block",
     "item.minecraft.pumpkin_seeds": "Plates",
     "block.minecraft.pink_stained_glass_pane": "Waffle",
-    "block.minecraft.magenta_stained_glass_pane": "Waffle Stack"
+    "block.minecraft.magenta_stained_glass_pane": "Waffle Stack",
+    "block.minecraft.lime_stained_glass_pane": "Globe",
+    "block.minecraft.cyan_stained_glass_pane": "Sepia Globe",
+    "block.minecraft.purple_stained_glass_pane": "Moon Globe"
 }
