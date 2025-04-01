@@ -74,5 +74,6 @@
     "block.minecraft.magenta_stained_glass_pane": "Waffle Stack",
     "block.minecraft.lime_stained_glass_pane": "Globe",
     "block.minecraft.cyan_stained_glass_pane": "Sepia Globe",
-    "block.minecraft.purple_stained_glass_pane": "Moon Globe"
+    "block.minecraft.purple_stained_glass_pane": "Moon Globe",
+    "block.minecraft.waxed_oxidized_copper_trapdoor": "Oak Trapdoor Alt"
 }

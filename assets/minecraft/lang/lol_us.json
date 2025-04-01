@@ -2,6 +2,7 @@
 	"soundCategory.music": "§cVanilla Music (§4disable§c)§r",
 	"soundCategory.record": "§aCustom Music§r",
 	"soundCategory.ambient": "§aSound Effects§r",
+    "biome.minecraft.warm_ocean": "Worm Ocean",
     "block.minecraft.purpur_block": "samdy bricks",
     "block.minecraft.purpur_pillar": "sambdy pillar",
     "block.minecraft.purpur_stairs": "samdy stairz",
@@ -73,5 +74,6 @@
     "block.minecraft.magenta_stained_glass_pane": "WAFFLSE HOUSE",
     "block.minecraft.lime_stained_glass_pane": "da urf but ball shaped",
     "block.minecraft.cyan_stained_glass_pane": "dIRTY urff",
-    "block.minecraft.purple_stained_glass_pane": "moon burger"
+    "block.minecraft.purple_stained_glass_pane": "moon burger",
+    "block.minecraft.waxed_oxidized_copper_trapdoor": "oke n spruce trapdoor if fussionnnn"
 }
