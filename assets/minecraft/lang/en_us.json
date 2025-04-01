@@ -2,6 +2,7 @@
 	"soundCategory.music": "§cVanilla Music (§4disable§c)§r",
 	"soundCategory.record": "§aCustom Music§r",
 	"soundCategory.ambient": "§aSound Effects§r",
+    "biome.minecraft.warm_ocean": "Worm Ocean",
     "block.minecraft.purpur_block": "Sandstone Bricks",
     "block.minecraft.purpur_pillar": "Sandstone Pillar",
     "block.minecraft.purpur_stairs": "Sandstone Brick Stairs",
