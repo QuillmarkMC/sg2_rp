@@ -21,5 +21,11 @@
 		"sounds": [
 			"sg:music/stinger"
 		]
+	},
+	"music.loot": {
+		"sounds": [
+			"sg:music/loot"
+		],
+		"stream": true
 	}
 }
