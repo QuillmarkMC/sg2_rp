@@ -77,6 +77,8 @@
 	"text.lobby.parkour.checkpoint": "Checkpoint reached!",
 	"text.lobby.parkour.complete": "%s has completed the parkour in %s!",
 	
+	"text.lobby.teleporter.name": "Personal Teleporter",
+	
 	"text.admin.chest.restock.begin":"Chest restock starting now...",
 	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress."
 }
