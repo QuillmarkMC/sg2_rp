@@ -79,6 +79,22 @@
 	
 	"text.lobby.teleporter.name": "Personal Teleporter",
 	
+	"text.lobby.options.display.start_game.name": "Start Game",
+	"text.lobby.options.display.team_mode.name": "Team Mode",
+	"text.lobby.options.display.border_starting_size.name": "Border Initial Size",
+	"text.lobby.options.display.border_delay.name": "Border Delay",
+	"text.lobby.options.display.border_shrink_time.name": "Border Shrink Time",
+	"text.lobby.options.display.chest_restock_time.name": "Chest Restock Time",
+	"text.lobby.options.display.chest_restock_mode.name": "Restock Mode",
+	"text.lobby.options.display.grace_period.name": "PvP Grace Period",
+	"text.lobby.options.display.max_team_size.name": "Max Team Size",
+	"text.lobby.options.display.loot_type.name": "Chest Loot Mode",
+	"text.lobby.options.display.reset.name": "Reset Options",
+	"text.lobby.options.display.lock.name": "Lock Options",
+	"text.lobby.options.display.music_select.name": "Music Selection",
+	"text.lobby.options.display.page.border": "Border Options",
+	"text.lobby.options.display.page.general": "General Options",
+	
 	"text.admin.chest.restock.begin":"Chest restock starting now...",
 	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress."
 }
