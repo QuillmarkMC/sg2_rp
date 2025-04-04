@@ -103,6 +103,8 @@
 	"text.lobby.options.display.music_select.value.desolate_desert": "Desolate\nDesert OST",
 	"text.lobby.options.display.page.border": "Border Options",
 	"text.lobby.options.display.page.general": "General Options",
+	"text.lobby.options.display.help": "?",
+	"text.lobby.options.display.edit": "Edit",
 	
 	"text.lobby.options.actions.lock.lock": "Game options have been locked! Only you and/or admins can modify them.",
 	"text.lobby.options.actions.lock.auto_unlock": "The game options have automatically been unlocked because there are no admins online.",
