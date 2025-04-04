@@ -113,6 +113,7 @@
 	"text.lobby.options.actions.lock.no_permission": "You do not have permission to edit the game options at this time. %s to give yourself permission.",
 	"text.lobby.options.actions.lock.no_permission.click": "Click here",
 	"text.lobby.options.actions.lock.no_permission.hover": "Click here",
+	"text.lobby.options.actions.reset": "All options have been reset to their default values.",
 	
 	"text.admin.chest.restock.begin":"Chest restock starting now...",
 	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress."
