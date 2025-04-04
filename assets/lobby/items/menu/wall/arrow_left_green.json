@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "lobby:item/menu/wall/button_16x8_gray"
+      "model": "lobby:item/menu/wall/arrow_left_green"
     }
   }
