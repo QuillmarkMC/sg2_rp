@@ -70,6 +70,7 @@
 	"text.lobby.teams.item.navigation.next": "Next Page",
 	"text.lobby.teams.item.navigation.back": "Back to Main Menu",
 	"text.lobby.teams.disband.leader_leave": "Your team was disbanded because the leader has left.",
+	"text.lobby.teams.disband.size_changed": "Your team was disbanded because the team options were changed.",
 	
 	"text.lobby.arena.sword.name": "Training Sword",
 	"text.lobby.death_message": "%s fainted",
@@ -116,5 +117,6 @@
 	"text.lobby.options.actions.reset": "All options have been reset to their default values.",
 	
 	"text.admin.chest.restock.begin":"Chest restock starting now...",
-	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress."
+	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress.",
+	"text.admin.map_events.reset":"Map events have been reset!"
 }
