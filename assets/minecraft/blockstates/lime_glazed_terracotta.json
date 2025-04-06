@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "sg:block/cactus_arm","y": 0},
+    "facing=east": {"model": "sg:block/cactus_arm","y": 90},
+    "facing=south": {"model": "sg:block/cactus_arm","y": 180},
+    "facing=west": {"model": "sg:block/cactus_arm","y": 270}
+  }
+}

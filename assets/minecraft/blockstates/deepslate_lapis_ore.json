@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "":[
+         {"model": "sg:block/ungilded_chiseled_sandstone_1","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_2","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_3","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_4","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_5","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_6","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_7","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_8","weight":10},
+         {"model": "sg:block/ungilded_chiseled_sandstone_sus","weight":1}
+        ]
+  }
+}

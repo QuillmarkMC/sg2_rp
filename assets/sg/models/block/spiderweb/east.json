@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "sg:block/spiderweb",
+		"particle": "sg:block/spiderweb"
+	},
+	"elements": [
+		{
+			"from": [15.75, 0, 0],
+			"to": [15.75, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

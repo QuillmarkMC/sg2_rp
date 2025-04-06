@@ -1,0 +1,6 @@
+{
+    "model": {
+      "type": "minecraft:model",
+      "model": "lobby:item/menu/wall/button_48x8_gray"
+    }
+  }

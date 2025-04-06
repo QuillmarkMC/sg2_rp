@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      {"model": "sg:block/glow_worm", "y": 0},
+      {"model": "sg:block/glow_worm", "y": 90},
+      {"model": "sg:block/glow_worm", "y": 180},
+      {"model": "sg:block/glow_worm", "y": 270},
+      {"model": "sg:block/glow_worm_2", "y": 0},
+      {"model": "sg:block/glow_worm_2", "y": 90},
+      {"model": "sg:block/glow_worm_2", "y": 180},
+      {"model": "sg:block/glow_worm_2", "y": 270},
+      {"model": "sg:block/glow_worm_3", "y": 0},
+      {"model": "sg:block/glow_worm_3", "y": 90},
+      {"model": "sg:block/glow_worm_3", "y": 180},
+      {"model": "sg:block/glow_worm_3", "y": 270},
+      {"model": "sg:block/glow_worm_4", "y": 0},
+      {"model": "sg:block/glow_worm_4", "y": 90},
+      {"model": "sg:block/glow_worm_4", "y": 180},
+      {"model": "sg:block/glow_worm_4", "y": 270},
+      {"model": "sg:block/glow_worm_5", "y": 0},
+      {"model": "sg:block/glow_worm_5", "y": 90},
+      {"model": "sg:block/glow_worm_5", "y": 180},
+      {"model": "sg:block/glow_worm_5", "y": 270}
+        ]
+  }
+}
