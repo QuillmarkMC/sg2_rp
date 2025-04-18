@@ -113,10 +113,14 @@
 	"text.lobby.options.actions.lock.unlock": "All players may now edit the game options.",
 	"text.lobby.options.actions.lock.no_permission": "You do not have permission to edit the game options at this time. %s to give yourself permission.",
 	"text.lobby.options.actions.lock.no_permission.click": "Click here",
-	"text.lobby.options.actions.lock.no_permission.hover": "Click here",
 	"text.lobby.options.actions.reset": "All options have been reset to their default values.",
+	"text.lobby.options.actions.hover_prompt": "Click me!",
+	"text.lobby.options.actions.edit": "Use the command %s to enter a custom value!",
+	"text.lobby.options.actions.edit.command": "\"/trigger value set <number>\"",
 	
 	"text.admin.chest.restock.begin":"Chest restock starting now...",
 	"text.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress.",
-	"text.admin.map_events.reset":"Map events have been reset!"
+	"text.admin.map_events.reset":"Map events have been reset!",
+	"text.admin.chest.error.place_failed":"Chest placement has failed at %s!",
+	"text.admin.chest.error.set_loot_failed":"Set loot table has failed at %s!"
 }
