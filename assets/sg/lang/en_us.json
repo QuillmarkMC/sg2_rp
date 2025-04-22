@@ -79,6 +79,7 @@
 	"text.lobby.parkour.complete": "%s has completed the parkour in %s!",
 	
 	"text.lobby.teleporter.name": "Personal Teleporter",
+	"text.lobby.teleporter.lore": "Returns you to your current respawn position",
 	
 	"text.lobby.options.display.start_game.name": "Start Game",
 	"text.lobby.options.display.team_mode.name": "Team Mode",
@@ -120,7 +121,7 @@
 	"text.lobby.options.actions.music.error.no_available_options": "There are no other music selections available at this time.",
 	"text.lobby.options.actions.help.border_delay": "Number of seconds the border waits at the initial size before starting to shrink.",
 	"text.lobby.options.actions.help.border_shrink_time": "The amount of time the border will take to shrink to its minimum size, measured in seconds.",
-	"text.lobby.options.actions.help.border_starting_size": "The size, measured in blocks, that the border will start at. Use the map on the floor of the connected room for a visual representation of the current border size.",
+	"text.lobby.options.actions.help.border_starting_size": "The size, measured in blocks, that the border will start at. Use the map on the floor of the center room for a visual representation of the current border size.",
 	"text.lobby.options.actions.help.chest_restock_mode": "What type of chests should be restocked in the middle of the game: All, Cornucopia, or None.",
 	"text.lobby.options.actions.help.chest_restock_time": "The amount of time before chests will be restocked during a game, measured in seconds.",
 	"text.lobby.options.actions.help.grace_period": "The amount of time that PvP is disabled for at the start of the game, measured in seconds.",
