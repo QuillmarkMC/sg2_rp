@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "lobby:item/map_marker"
+      "model": "lobby:item/map_marker_1"
     }
   }
