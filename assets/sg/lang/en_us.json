@@ -21,6 +21,9 @@
 	"text.game.begin":"The barriers have dropped! A %s second grace period has been applied!",
 	"text.game.spectator.overflow":"Maximum player count has been reached, you were automatically moved to the spectators.",
 	
+	"text.game.item.library_key.name":"Library Key",
+	"text.game.item.library_key.lore":"Unlocks abandoned knowledge and treasure",
+	
 	"text.lobby.start.cancel.success":"<%s> Start sequence cancelled!",
 	"text.lobby.start.begin":"Start countdown has begun! Game will begin in %s seconds.",
 	"text.lobby.start.cancel.prompt":"[Cancel Start]",
