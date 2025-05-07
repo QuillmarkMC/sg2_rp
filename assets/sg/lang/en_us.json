@@ -21,6 +21,7 @@
 	"text.game.begin":"The barriers have dropped! A %s second grace period has been applied!",
 	"text.game.grace_period.expire_soon":"The grace period has %s seconds remaining!",
 	"text.game.spectator.overflow":"Maximum player count has been reached, you were automatically moved to the spectators.",
+	"text.game.death.doomed_to_fall":"%s was doomed to fall",
 	
 	"text.game.item.library_key.name":"Library Key",
 	"text.game.item.library_key.lore":"Unlocks abandoned knowledge and treasure",
@@ -137,5 +138,16 @@
 	"text.admin.map_events.reset":"Map events have been reset!",
 	"text.admin.chest.error.place_failed":"Chest placement has failed at %s!",
 	"text.admin.chest.error.set_loot_failed":"Set loot table has failed at %s!",
-	"text.admin.dev.uninstall":"SG Development pack has been uninstalled."
+	"text.admin.dev.uninstall":"SG Development pack has been uninstalled.",
+
+	"text.general.safety.bypass.allow":"You have been given a safety exemption.",
+	"text.general.safety.bypass.revoke":"You have had your safety exemption revoked.",
+	"text.general.safety.bypass.warning1":"WARNING! These safety checks protect the game from entering an invalid state. By ignoring them, the game will not function as intended. %s %s",
+	"text.general.safety.bypass.warning2":"Click here",
+	"text.general.safety.bypass.warning3":"to re-enable the safety checks.",
+	"text.general.safety.bypass.warning_hover":"Requires operator permissions",
+	"text.general.safety.survival1":"This map is not designed to be played in survival mode, so you have automatically been placed into adventure mode. To disable this behavior, use %s",
+	"text.general.safety.survival2":"this command.",
+	"text.general.safety.respawn1":"You have already died during this round, and cannot be brought back to life. To override this feature and allow respawns, use %s",
+	"text.general.safety.respawn2":"this command."
 }
