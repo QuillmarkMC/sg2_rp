@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+	  "all": "sg:block/vibrant_cyan_terracotta"
+	}
+  }
+  

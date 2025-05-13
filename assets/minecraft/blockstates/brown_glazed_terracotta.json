@@ -106,7 +106,7 @@
       {"model": "lobby:block/greeble/greeble_block_c_3","y": 270,"x": 0},
       {"model": "lobby:block/greeble/greeble_block_c_3","y": 270,"x": 180}
     ],
-    "facing=east": {"model": "sg:broken"},
+    "facing=east": {"model": "sg:block/vibrant_cyan_terracotta"},
     "facing=south": {"model": "sg:broken"},
     "facing=west": {"model": "sg:broken"}
   }
