@@ -1,0 +1,52 @@
+{
+	"credit": "Made by Cygnus",
+	"textures": {
+		"0": "lobby:item/cards",
+		"particle": "lobby:item/cards"
+	},
+	"elements": [
+		{
+			"from": [5.5, 8, 4.5],
+			"to": [10.5, 8, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [10, 0, 15, 7], "texture": "#0"},
+				"down": {"uv": [10, 7, 15, 14], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [114.81, 7.35, -4.79],
+			"translation": [0, 2.5, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [114.81, 7.35, -4.79],
+			"translation": [0, 2.5, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [84.86, -2.4, 26.25],
+			"translation": [3, 2.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [84.86, -2.4, 26.25],
+			"translation": [3, 2.5, 0]
+		},
+		"ground": {
+			"translation": [0, -2, 0]
+		},
+		"gui": {
+			"rotation": [65, -24, 28],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 11.75, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"fixed": {
+			"rotation": [-90, 180, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}
