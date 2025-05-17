@@ -22,6 +22,7 @@
 	"text.game.grace_period.expire_soon":"The grace period has %s seconds remaining!",
 	"text.game.spectator.overflow":"Maximum player count has been reached, you were automatically moved to the spectators.",
 	"text.game.death.doomed_to_fall":"%s was doomed to fall",
+	"sg.game.library.locked":"Door is locked!",
 	
 	"text.game.item.library_key.name":"Library Key",
 	"text.game.item.library_key.lore":"Unlocks abandoned knowledge and treasure",
