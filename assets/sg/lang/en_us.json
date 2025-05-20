@@ -88,9 +88,7 @@
 	"sg.lobby.teleporter.lore": "Returns you to your current respawn position",
 	
 	"sg.lobby.options.display.start_game.name": "Start Game",
-	"sg.lobby.options.display.team_mode.name": "Team Mode",
-	"sg.lobby.options.display.team_mode.value.team": "Teams",
-	"sg.lobby.options.display.team_mode.value.solo": "Solos",
+	"sg.lobby.options.display.anticheat.name": "Anti-Cheat",
 	"sg.lobby.options.display.border_starting_size.name": "Border Initial Size",
 	"sg.lobby.options.display.border_delay.name": "Border Delay",
 	"sg.lobby.options.display.border_shrink_time.name": "Border Shrink Time",
@@ -125,7 +123,7 @@
 	"sg.lobby.options.actions.edit": "Use the command %s to enter a custom value!",
 	"sg.lobby.options.actions.edit.command": "\"/trigger value set <number>\"",
 	"sg.lobby.options.actions.music.error.no_available_options": "There are no other music selections available at this time.",
-	"sg.lobby.options.actions.help.border_delay": "Number of seconds the border waits at the initial size before starting to shrink.",
+	"sg.lobby.options.actions.help.border_delay": "Number of seconds the border will wait at the initial size before starting to shrink.",
 	"sg.lobby.options.actions.help.border_shrink_time": "The amount of time the border will take to shrink to its minimum size, measured in seconds.",
 	"sg.lobby.options.actions.help.border_starting_size": "The size, measured in blocks, that the border will start at. Use the map on the floor of the center room for a visual representation of the current border size.",
 	"sg.lobby.options.actions.help.chest_restock_mode": "What type of chests should be restocked in the middle of the game: All, Cornucopia, or None.",
@@ -133,6 +131,7 @@
 	"sg.lobby.options.actions.help.grace_period": "The amount of time that PvP is disabled for at the start of the game, measured in seconds.",
 	"sg.lobby.options.actions.help.loot_type": "Controls whether or not chests can spawn with crafted items.",
 	"sg.lobby.options.actions.help.max_team_size": "Maximum number of players allowed on a single team.",
+	"sg.lobby.options.actions.help.anticheat": "Detects and punishes players who are found to be cheating. Current cheats that can be detected:\n• Combat logging",
 	
 	"sg.lobby.credits.name.strongis13": "Strongis13",
 	"sg.lobby.credits.name.cygnusgd": "CygnusGD",
