@@ -106,7 +106,12 @@
       {"model": "lobby:block/greeble/greeble_block_c_3","y": 270,"x": 0},
       {"model": "lobby:block/greeble/greeble_block_c_3","y": 270,"x": 180}
     ],
-    "facing=east": {"model": "lobby:block/dance_floor_block"},
+    "facing=east": [
+      {"model": "lobby:block/dance_floor_block/1"},
+      {"model": "lobby:block/dance_floor_block/2"},
+      {"model": "lobby:block/dance_floor_block/3"},
+      {"model": "lobby:block/dance_floor_block/4"}
+    ],
     "facing=south": {"model": "sg:block/vibrant_cyan_terracotta"},
     "facing=west": {"model": "sg:broken"}
   }
