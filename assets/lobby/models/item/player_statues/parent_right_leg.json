@@ -1,6 +1,9 @@
 {
 	"credit": "Made by Cygnus",
 	"texture_size": [64, 64],
+	"textures":{
+		"particle": "#skin"
+	},
 	"elements": [
 		{
 			"name": "right_leg",
