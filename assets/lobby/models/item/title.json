@@ -3,7 +3,8 @@
 	"texture_size": [1000, 320],
 	"textures": {
 		"0": "lobby:item/title/desolate",
-		"1": "lobby:item/title/desert"
+		"1": "lobby:item/title/desert",
+		"particle": "lobby:item/empty"
 	},
 	"elements": [
 		{

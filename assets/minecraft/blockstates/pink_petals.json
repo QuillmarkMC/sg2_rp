@@ -3,21 +3,21 @@
       "facing=east,flower_amount=1": {"model": "sg:block/beetle","y":270},
       "facing=east,flower_amount=2": {"model": "sg:block/beetle_animated_2","y":270},
       "facing=east,flower_amount=3": {"model": "sg:block/beetle_idle","y":270},
-      "facing=east,flower_amount=4": {"model": "sg:broken"},
+      "facing=east,flower_amount=4": {"model": "minecraft:block/stone"},
 
       "facing=north,flower_amount=1": {"model": "sg:block/beetle","y":180},
       "facing=north,flower_amount=2": {"model": "sg:block/beetle_animated_2","y":180},
       "facing=north,flower_amount=3": {"model": "sg:block/beetle_idle","y":180},
-      "facing=north,flower_amount=4": {"model": "sg:broken"},
+      "facing=north,flower_amount=4": {"model": "minecraft:block/stone"},
 
       "facing=south,flower_amount=1": {"model": "sg:block/beetle","y":0},
       "facing=south,flower_amount=2": {"model": "sg:block/beetle_animated_2","y":0},
       "facing=south,flower_amount=3,": {"model": "sg:block/beetle_idle","y":0},
-      "facing=south,flower_amount=4": {"model": "sg:broken"},
+      "facing=south,flower_amount=4": {"model": "minecraft:block/stone"},
       
       "facing=west,flower_amount=1": {"model": "sg:block/beetle","y":90},
       "facing=west,flower_amount=2": {"model": "sg:block/beetle_animated_2","y":90},
       "facing=west,flower_amount=3,": {"model": "sg:block/beetle_idle","y":90},
-      "facing=west,flower_amount=4": {"model": "sg:broken"}
+      "facing=west,flower_amount=4": {"model": "minecraft:block/stone"}
     }
   }
