@@ -7,6 +7,35 @@
 			"minecraft:step/stone4",
 			"minecraft:step/stone5",
 			"minecraft:step/stone6"
-		]
+		],
+		"replace":true
+	},
+	"block.shroomlight.place": {
+		"sounds": [
+			"minecraft:dig/stone1",
+			"minecraft:dig/stone2",
+			"minecraft:dig/stone3",
+			"minecraft:dig/stone4"
+		],
+		"replace":true
+	},
+	"block.shroomlight.break": {
+		"sounds": [
+			"minecraft:dig/stone1",
+			"minecraft:dig/stone2",
+			"minecraft:dig/stone3",
+			"minecraft:dig/stone4"
+		],
+		"replace":true
+	},
+	"block.powder_snow.step": {
+		"sounds": [
+			"minecraft:block/honeyblock/step1",
+			"minecraft:block/honeyblock/step2",
+			"minecraft:block/honeyblock/step3",
+			"minecraft:block/honeyblock/step4",
+			"minecraft:block/honeyblock/step5"
+		],
+		"replace":true
 	}
 }

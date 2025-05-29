@@ -1,0 +1,6 @@
+{
+    "parent": "lobby:item/player_statues/parent_left_leg",
+    "textures": {
+      "skin": "lobby:item/player_statues/trianull"
+    }
+  }

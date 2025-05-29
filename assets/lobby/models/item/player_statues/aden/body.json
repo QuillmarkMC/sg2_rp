@@ -1,0 +1,6 @@
+{
+    "parent": "lobby:item/player_statues/parent_body",
+    "textures": {
+      "skin": "lobby:item/player_statues/aden"
+    }
+  }

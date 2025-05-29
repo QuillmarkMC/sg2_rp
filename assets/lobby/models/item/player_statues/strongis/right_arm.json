@@ -1,0 +1,6 @@
+{
+    "parent": "lobby:item/player_statues/parent_right_arm_slim",
+    "textures": {
+      "skin": "lobby:item/player_statues/strongis"
+    }
+  }
