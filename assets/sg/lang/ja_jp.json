@@ -151,8 +151,6 @@
 	"sg.lobby.credits.role.trailer": "\n• マップトレーラー",
 	"sg.lobby.credits.translation.thanks": "この地図の翻訳に協力してくれたすべての人に感謝します！",
 	"sg.lobby.credits.translation.contact": "\n• 翻訳にご協力いただける方は、DiscordまたはPlanet Minecraftまでご連絡ください！",
-	"sg.lobby.credits.translation.zh_cn": "\n• BarriersLink Project 联壁计划 (zh_cn)",
-	"sg.lobby.credits.translation.ja_jp": "\n• Tai_zazanek (ja_jp)",
 	
 	"sg.admin.chest.restock.begin":"チェストの補充を開始します...",
 	"sg.admin.chest.error.restock_in_progress":"新たに補充を開始することはできません。",

@@ -150,9 +150,10 @@
 	"sg.lobby.credits.role.music": "\n• Composer",
 	"sg.lobby.credits.role.trailer": "\n• Trailer Editor",
 	"sg.lobby.credits.translation.thanks": "Special thanks to everyone who helped translate this map!",
-	"sg.lobby.credits.translation.contact": "\n• Contact us on Discord or Planet Minecraft if you wish to help us translate!",
-	"sg.lobby.credits.translation.zh_cn": "\n• BarriersLink Project 联壁计划 (zh_cn)",
-	"sg.lobby.credits.translation.ja_jp": "\n• Tai_zazanek (ja_jp)",
+	"sg.lobby.credits.translation.contact": "• Contact us on Discord or Planet Minecraft if you wish to help us translate!",
+	"sg.lobby.credits.translation.zh_cn": "• BarriersLink Project 联壁计划 (zh_cn)",
+	"sg.lobby.credits.translation.ja_jp": "• Tai_zazanek (ja_jp)",
+	"sg.lobby.credits.translation.fr_fr": "• AlexisAMZ (fr_fr)",
 	
 	"sg.admin.chest.restock.begin":"Chest restock starting now...",
 	"sg.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress.",
