@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Cygnus",
 	"textures": {
 		"0": "lobby:item/menu/gui/team_select_1",
 		"particle": "lobby:item/menu/gui/team_select_1"
@@ -18,7 +18,7 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"translation": [72, -22, -80],
+			"translation": [72, -58, -80],
 			"scale": [4, 4, 1]
 		}
 	}
