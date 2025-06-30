@@ -151,8 +151,6 @@
 	"sg.lobby.credits.role.trailer": "\n• 宣传片制作",
 	"sg.lobby.credits.translation.thanks": "特别感谢所有参与地图本地化工作的翻译人员！",
 	"sg.lobby.credits.translation.contact": "\n• 如果您愿意协助我们进行翻译工作，请通过Discord或Planet Minecraft平台与我们取得联系！",
-	"sg.lobby.credits.translation.zh_cn": "\n• BarriersLink Project 联壁计划 (zh_cn)",
-	"sg.lobby.credits.translation.ja_jp": "\n• Tai_zazanek (ja_jp)",
 	
 	"sg.admin.chest.restock.begin":"正在补充宝箱战利品...",
 	"sg.admin.chest.error.restock_in_progress":"正在补充宝箱，无法重复补充。",

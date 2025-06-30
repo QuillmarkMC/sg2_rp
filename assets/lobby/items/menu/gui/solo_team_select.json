@@ -2,5 +2,6 @@
     "model": {
       "type": "minecraft:model",
       "model": "lobby:item/menu/gui/solo_team_select"
-    }
+    },
+    "oversized_in_gui": true
   }
