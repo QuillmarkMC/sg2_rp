@@ -158,6 +158,7 @@
 	"sg.admin.chest.error.place_failed":"Le placement du coffre a échoué à %s !",
 	"sg.admin.chest.error.set_loot_failed":"La définition de la table de butin a échoué à %s !",
 	"sg.admin.dev.uninstall":"Le pack de développement SG a été désinstallé.",
+	"sg.admin.dev.unavailable":"Vous ne pouvez pas faire ça maintenant !",
 
 	"sg.general.safety.bypass.allow":"Vous avez reçu une exemption de sécurité.",
 	"sg.general.safety.bypass.revoke":"Votre exemption de sécurité a été révoquée.",
