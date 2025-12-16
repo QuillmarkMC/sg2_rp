@@ -1,36 +1,37 @@
 {
-	"music.lobby": {
+	"music.desolate.lobby": {
 		"sounds": [
-			"sg:music/lobby"
+			"sg:music/desolate/lobby"
 		],
 		"stream": true
 	},
-	"music.grace": {
+	"music.desolate.grace": {
 		"sounds": [
-			"sg:music/grace"
+			"sg:music/desolate/grace"
 		],
 		"stream": true
 	},
-	"music.deathmatch": {
+	"music.desolate.deathmatch": {
 		"sounds": [
-			"sg:music/deathmatch"
+			"sg:music/desolate/deathmatch"
 		],
 		"stream": true
 	},
-	"music.stinger": {
+	"music.desolate.border": {
 		"sounds": [
-			"sg:music/stinger"
-		]
-	},
-	"music.loot": {
-		"sounds": [
-			"sg:music/loot"
+			"sg:music/desolate/border"
 		],
 		"stream": true
 	},
-	"timer.drum": {
+	"music.desolate.loot": {
 		"sounds": [
-			"sg:timer/drum"
+			"sg:music/desolate/loot"
+		],
+		"stream": true
+	},
+	"effects.desolate.timer": {
+		"sounds": [
+			"sg:effects/desolate/timer"
 		]
 	}
 }
