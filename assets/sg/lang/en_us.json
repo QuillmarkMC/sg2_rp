@@ -227,6 +227,9 @@
 	"sgdev.item.anvil": "Anvil",
 	"sgdev.item.modify": "Modify Chest Rarity",
 	"sgdev.item.delete": "Delete Chest",
+	"sgdev.dfu.error.general_failure": "SG Data Fixer failed to execute!",
+	"sgdev.dfu.warning.no_changes": "SG Data Fixer completed with no changes!",
+	"sgdev.dfu.success": "SG Data Fixer completed successfully!",
 	
 	
 	"soundCategory.music": "§cVanilla Music (§4disable§c)§r",
