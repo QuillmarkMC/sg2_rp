@@ -2,9 +2,9 @@
 	"credit": "Made by Cygnus",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "sg:block/books/book_2",
+		"0": "lobby:item/books/book_2",
 		"1": "lobby:item/book_page",
-		"particle": "sg:block/books/book_2"
+		"particle": "lobby:item/books/book_2"
 	},
 	"elements": [
 		{
