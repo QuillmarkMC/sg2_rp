@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made by Cygnus",
 	"textures": {
-		"0": "",
-		"particle": ""
+		"0": "#layer0",
+		"particle": "#layer0"
 	},
 	"elements": [
 		{
