@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "lobby:item/menu/wall/button_parent",
     "textures": {
       "layer0": "lobby:item/menu/wall/button_48x8_gray"
     }
