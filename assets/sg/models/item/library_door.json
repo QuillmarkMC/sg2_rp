@@ -1,5 +1,5 @@
 {
-	"format_version": "1.21.11",
+	"format_version": "1.21.6",
 	"credit": "Made by Cygnus",
 	"textures": {
 		"0": "sg:item/iron_bars",
@@ -9,7 +9,7 @@
 		{
 			"from": [-8, 0, 8],
 			"to": [8, 16, 8],
-			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [6, 0, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
@@ -18,7 +18,7 @@
 		{
 			"from": [-8, 16, 8],
 			"to": [8, 32, 8],
-			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [6, 16, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 16, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
@@ -27,7 +27,7 @@
 		{
 			"from": [-8, 0.05, 7],
 			"to": [8, 0.05, 9],
-			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [0, 0.05, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.05, 7]},
 			"faces": {
 				"up": {"uv": [7, 0, 9, 16], "rotation": 90, "texture": "#0"},
 				"down": {"uv": [7, 0, 9, 16], "rotation": 90, "texture": "#0"}
@@ -36,7 +36,7 @@
 		{
 			"from": [-8, 16.05, 7],
 			"to": [8, 16.05, 9],
-			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [0, 16.05, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16.05, 7]},
 			"faces": {
 				"up": {"uv": [7, 0, 9, 16], "rotation": 90, "texture": "#0"},
 				"down": {"uv": [7, 0, 9, 16], "rotation": 90, "texture": "#0"}
@@ -45,7 +45,7 @@
 		{
 			"from": [-8, 31.95, 7],
 			"to": [8, 31.95, 9],
-			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [0, 31, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 31, 7]},
 			"faces": {
 				"up": {"uv": [7, 0, 9, 16], "rotation": 90, "texture": "#0"},
 				"down": {"uv": [7, 0, 9, 16], "rotation": 90, "texture": "#0"}
