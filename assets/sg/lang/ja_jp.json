@@ -158,6 +158,7 @@
 	"sg.admin.chest.error.place_failed":"チェストの配置が%sで失敗しました！",
 	"sg.admin.chest.error.set_loot_failed":"ルートテーブルの設定が%sで失敗しました！",
 	"sg.admin.dev.uninstall":"SG Development packがアンインストールされました。",
+	"sg.admin.dev.unavailable":"今それを行うことはできません！",
 
 	"sg.general.safety.bypass.allow":"あなたは安全装置を受けています。",
 	"sg.general.safety.bypass.revoke":"あなたは安全装置を取り消されました。",

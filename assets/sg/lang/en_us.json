@@ -154,6 +154,7 @@
 	"sg.lobby.credits.translation.zh_cn": "• BarriersLink Project 联壁计划 (zh_cn)",
 	"sg.lobby.credits.translation.ja_jp": "• Tai_zazanek (ja_jp)",
 	"sg.lobby.credits.translation.fr_fr": "• AlexisAMZ (fr_fr)",
+	"sg.lobby.credits.translation.ru_ru": "• Disapphire (ru_ru)",
 	
 	"sg.admin.chest.restock.begin":"Chest restock starting now...",
 	"sg.admin.chest.error.restock_in_progress":"New restock cannot be started, another one is already in progress.",
@@ -161,6 +162,7 @@
 	"sg.admin.chest.error.place_failed":"Chest placement has failed at %s!",
 	"sg.admin.chest.error.set_loot_failed":"Set loot table has failed at %s!",
 	"sg.admin.dev.uninstall":"SG Development pack has been uninstalled.",
+	"sg.admin.dev.unavailable":"You can't do that right now!",
 
 	"sg.general.safety.bypass.allow":"You have been given a safety exemption.",
 	"sg.general.safety.bypass.revoke":"You have had your safety exemption revoked.",
@@ -225,6 +227,9 @@
 	"sgdev.item.anvil": "Anvil",
 	"sgdev.item.modify": "Modify Chest Rarity",
 	"sgdev.item.delete": "Delete Chest",
+	"sgdev.dfu.error.general_failure": "SG Data Fixer failed to execute!",
+	"sgdev.dfu.warning.no_changes": "SG Data Fixer completed with no changes!",
+	"sgdev.dfu.success": "SG Data Fixer completed successfully!",
 	
 	
 	"soundCategory.music": "§cVanilla Music (§4disable§c)§r",
