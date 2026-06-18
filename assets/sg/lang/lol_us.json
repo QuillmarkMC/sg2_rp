@@ -2,6 +2,8 @@
 	"soundCategory.music": "§cVanilla Music (§4disable§c)§r",
 	"soundCategory.record": "§aCustom Music§r",
 	"soundCategory.ambient": "§aSound Effects§r",
+	"menu.options": "§aOptions...§r",
+	"options.sounds": "§aMusic & Sounds...§r",
     "biome.minecraft.warm_ocean": "Worm Ocean",
     "block.minecraft.purpur_block": "samdy bricks",
     "block.minecraft.purpur_pillar": "sambdy pillar",

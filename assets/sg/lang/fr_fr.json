@@ -228,6 +228,8 @@
 	"soundCategory.music": "§cMusique Vanilla (§4désactiver§c)§r",
 	"soundCategory.record": "§aMusique personnalisée§r",
 	"soundCategory.ambient": "§aEffets sonores§r",
+	"menu.options": "§aOptions...§r",
+	"options.sounds": "§aMusique et sons...§r",
     "block.minecraft.purpur_block": "Briques de grès",
     "block.minecraft.purpur_pillar": "Pilier de grès",
     "block.minecraft.purpur_stairs": "Escaliers en briques de grès",

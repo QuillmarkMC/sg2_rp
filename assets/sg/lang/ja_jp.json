@@ -228,6 +228,8 @@
 	"soundCategory.music": "§cバニラ音楽 (§4無効§c)§r",
 	"soundCategory.record": "§aカスタム音楽§r",
 	"soundCategory.ambient": "§a効果音§r",
+	"menu.options": "§a設定…§r",
+	"options.sounds": "§aサウンド設定…§r",
     "block.minecraft.purpur_block": "砂岩レンガ",
     "block.minecraft.purpur_pillar": "砂岩の柱",
     "block.minecraft.purpur_stairs": "砂岩レンガの階段",
