@@ -227,6 +227,8 @@
 	"soundCategory.music": "§c原版音乐 (§4禁用§c)§r",
 	"soundCategory.record": "§a自定义音乐§r",
 	"soundCategory.ambient": "§a音效§r",
+	"menu.options": "§a选项…§r",
+	"options.sounds": "§a音乐和声音…§r",
     "block.minecraft.purpur_block": "Sandstone Bricks",
     "block.minecraft.purpur_pillar": "Sandstone Pillar",
     "block.minecraft.purpur_stairs": "Sandstone Brick Stairs",

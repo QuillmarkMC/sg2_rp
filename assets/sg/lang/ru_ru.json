@@ -228,6 +228,8 @@
 	"soundCategory.music": "§cКлассическая музыка (§4отключите§c)§r",
 	"soundCategory.record": "§aКастомная музыка§r",
 	"soundCategory.ambient": "§aЗвуковые эффекты§r",
+	"menu.options": "§aНастройки...§r",
+	"options.sounds": "§aМузыка и звуки...§r",
     "block.minecraft.purpur_block": "Песчаниковые кирпичи",
     "block.minecraft.purpur_pillar": "Песчаниковая колонна",
     "block.minecraft.purpur_stairs": "Ступеньки из песчаникового кирпича",
